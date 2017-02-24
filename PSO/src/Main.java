@@ -7,7 +7,6 @@ public class Main {
 	final double c1 = 2;
 	final double c2 = 2;
 	public static Random random = new Random();
-	double s = 0;
 
 	public static void main(String[] args) {
 		PSOProcess.starProcess(5, 2);
